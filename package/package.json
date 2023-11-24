@@ -1,0 +1,22 @@
+{
+  "name": "os-info",
+  "version": "1.0.0",
+  "description": "This package will retrieve the username and machine name of the current system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajinskumar132/os-info.git"
+  },
+  "keywords": [
+    "os"
+  ],
+  "author": "sajinskumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajinskumar132/os-info/issues"
+  },
+  "homepage": "https://github.com/sajinskumar132/os-info#readme"
+}
