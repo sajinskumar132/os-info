@@ -1,5 +1,5 @@
 {
-  "name": "@system/os-info",
+  "name": "system/os-info",
   "version": "1.0.0",
   "description": "This package will retrieve the username and machine name of the current system.",
   "main": "index.js",
@@ -18,9 +18,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sajinskumar132/os-info/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/sajinskumar132/os-info#readme"
 }
