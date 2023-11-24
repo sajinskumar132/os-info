@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sajinskumar132/os-info/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "homepage": "https://github.com/sajinskumar132/os-info#readme"
 }
