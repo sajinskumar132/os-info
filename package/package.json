@@ -1,5 +1,5 @@
 {
-  "name": "os-info",
+  "name": "@system/os-info",
   "version": "1.0.0",
   "description": "This package will retrieve the username and machine name of the current system.",
   "main": "index.js",

@@ -1,3 +1,3 @@
-const osDetails=require('os-info')
+const osDetails=require('@system/os-info')
 
 console.log(osDetails())
